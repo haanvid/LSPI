@@ -1,0 +1,1 @@
+Logging to /home/haanvid/ppo2-lstm/baselines/baselines/ppo2/mlp-delay20-aug_mdp-log

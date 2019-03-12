@@ -1,0 +1,1 @@
+Logging to /home/haanvid/ppo2-lstm/baselines/baselines/ppo2/ppo2-lstm-Hopper-v2-log
